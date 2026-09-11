@@ -1,2 +1,5 @@
-# AI-University-Course-Scheduler
-A JavaFX course scheduler where genes form timetables optimized by a Genetic Algorithm using hard and soft constraints.
+ر## Project Report
+
+The complete project report, including the implementation, experiments, results, graphs, and screenshots, is available below:
+
+[View the Complete Project Report](AI_Report-1230833.pdf)
